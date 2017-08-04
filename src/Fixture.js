@@ -4,13 +4,12 @@ import './Fixture.css';
 class Fixture extends Component {
 	constructor(props){
 		super(props);
-		this.fixture = props.data;
+		this.fixture = props.fixture;
 	}
 
 	render(){
 		return (
 			<li className="FixtureItem">
-				<p>{this.fixture.date}</p>
 				<div>
 					<p>{this.fixture[0]} vs {this.fixture[1]}</p>
 				</div>

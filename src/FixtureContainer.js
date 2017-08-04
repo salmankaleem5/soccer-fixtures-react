@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import Fixture from './Fixture';
+import MatchRound from './MatchRound';
 import myData from './data/data.json';
 
 class FixtureContainer extends Component {
@@ -8,13 +8,11 @@ class FixtureContainer extends Component {
 	}
 
 	render(){
-		const fixtures = myData.map( (fixtureObj, i) =>
-			<Fixture key={fixtureObj[0]+fixtureObj[1]+i} data={fixtureObj}></Fixture>
+		const fixtures = myData.map( (round_array, i) =>
+			<MatchRound key={i} round_data={round_array}></MatchRound>
 		);
 		return (
-			<div>
-				<ul>{fixtures}</ul>
-			</div>
+			<ul>{fixtures}</ul>
 		);
 	}
 }

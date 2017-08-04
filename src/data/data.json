@@ -1,1 +1,1737 @@
-[{"0": "Athletic Bilbao", "1": "Getafe", "date": "Sunday 20th August"}, {"0": "Barcelona", "1": "Real Betis", "date": "Sunday 20th August"}, {"0": "Celta Vigo", "1": "Real Sociedad", "date": "Sunday 20th August"}, {"0": "Deportivo La Coruna", "1": "Real Madrid", "date": "Sunday 20th August"}, {"0": "Girona", "1": "Atletico Madrid", "date": "Sunday 20th August"}, {"0": "Leganes", "1": "Alaves", "date": "Sunday 20th August"}, {"0": "Levante", "1": "Villarreal", "date": "Sunday 20th August"}, {"0": "Malaga", "1": "Eibar", "date": "Sunday 20th August"}, {"0": "Sevilla", "1": "Espanyol", "date": "Sunday 20th August"}, {"0": "Valencia", "1": "Las Palmas", "date": "Sunday 20th August"}, {"0": "Alaves", "1": "Barcelona", "date": "Sunday 27th August"}, {"0": "Eibar", "1": "Athletic Bilbao", "date": "Sunday 27th August"}, {"0": "Espanyol", "1": "Leganes", "date": "Sunday 27th August"}, {"0": "Getafe", "1": "Sevilla", "date": "Sunday 27th August"}, {"0": "Girona", "1": "Malaga", "date": "Sunday 27th August"}, {"0": "Las Palmas", "1": "Atletico Madrid", "date": "Sunday 27th August"}, {"0": "Levante", "1": "Deportivo La Coruna", "date": "Sunday 27th August"}, {"0": "Real Betis", "1": "Celta Vigo", "date": "Sunday 27th August"}, {"0": "Real Madrid", "1": "Valencia", "date": "Sunday 27th August"}, {"0": "Real Sociedad", "1": "Villarreal", "date": "Sunday 27th August"}, {"0": "Athletic Bilbao", "1": "Girona", "date": "Sunday 10th September"}, {"0": "Barcelona", "1": "Espanyol", "date": "Sunday 10th September"}, {"0": "Celta Vigo", "1": "Alaves", "date": "Sunday 10th September"}, {"0": "Deportivo La Coruna", "1": "Real Sociedad", "date": "Sunday 10th September"}, {"0": "Leganes", "1": "Getafe", "date": "Sunday 10th September"}, {"0": "Malaga", "1": "Las Palmas", "date": "Sunday 10th September"}, {"0": "Real Madrid", "1": "Levante", "date": "Sunday 10th September"}, {"0": "Sevilla", "1": "Eibar", "date": "Sunday 10th September"}, {"0": "Valencia", "1": "Atletico Madrid", "date": "Sunday 10th September"}, {"0": "Villarreal", "1": "Real Betis", "date": "Sunday 10th September"}, {"0": "Alaves", "1": "Villarreal", "date": "Sunday 17th September"}, {"0": "Atletico Madrid", "1": "Malaga", "date": "Sunday 17th September"}, {"0": "Eibar", "1": "Leganes", "date": "Sunday 17th September"}, {"0": "Espanyol", "1": "Celta Vigo", "date": "Sunday 17th September"}, {"0": "Getafe", "1": "Barcelona", "date": "Sunday 17th September"}, {"0": "Girona", "1": "Sevilla", "date": "Sunday 17th September"}, {"0": "Las Palmas", "1": "Athletic Bilbao", "date": "Sunday 17th September"}, {"0": "Levante", "1": "Valencia", "date": "Sunday 17th September"}, {"0": "Real Betis", "1": "Deportivo La Coruna", "date": "Sunday 17th September"}, {"0": "Real Sociedad", "1": "Real Madrid", "date": "Sunday 17th September"}, {"0": "Athletic Bilbao", "1": "Atletico Madrid", "date": "Wednesday 20th September"}, {"0": "Barcelona", "1": "Eibar", "date": "Wednesday 20th September"}, {"0": "Celta Vigo", "1": "Getafe", "date": "Wednesday 20th September"}, {"0": "Deportivo La Coruna", "1": "Alaves", "date": "Wednesday 20th September"}, {"0": "Leganes", "1": "Girona", "date": "Wednesday 20th September"}, {"0": "Levante", "1": "Real Sociedad", "date": "Wednesday 20th September"}, {"0": "Real Madrid", "1": "Real Betis", "date": "Wednesday 20th September"}, {"0": "Sevilla", "1": "Las Palmas", "date": "Wednesday 20th September"}, {"0": "Valencia", "1": "Malaga", "date": "Wednesday 20th September"}, {"0": "Villarreal", "1": "Espanyol", "date": "Wednesday 20th September"}, {"0": "Alaves", "1": "Real Madrid", "date": "Sunday 24th September"}, {"0": "Atletico Madrid", "1": "Sevilla", "date": "Sunday 24th September"}, {"0": "Eibar", "1": "Celta Vigo", "date": "Sunday 24th September"}, {"0": "Espanyol", "1": "Deportivo La Coruna", "date": "Sunday 24th September"}, {"0": "Getafe", "1": "Villarreal", "date": "Sunday 24th September"}, {"0": "Girona", "1": "Barcelona", "date": "Sunday 24th September"}, {"0": "Las Palmas", "1": "Leganes", "date": "Sunday 24th September"}, {"0": "Malaga", "1": "Athletic Bilbao", "date": "Sunday 24th September"}, {"0": "Real Betis", "1": "Levante", "date": "Sunday 24th September"}, {"0": "Real Sociedad", "1": "Valencia", "date": "Sunday 24th September"}, {"0": "Barcelona", "1": "Las Palmas", "date": "Sunday 1st October"}, {"0": "Celta Vigo", "1": "Girona", "date": "Sunday 1st October"}, {"0": "Deportivo La Coruna", "1": "Getafe", "date": "Sunday 1st October"}, {"0": "Leganes", "1": "Atletico Madrid", "date": "Sunday 1st October"}, {"0": "Levante", "1": "Alaves", "date": "Sunday 1st October"}, {"0": "Real Madrid", "1": "Espanyol", "date": "Sunday 1st October"}, {"0": "Real Sociedad", "1": "Real Betis", "date": "Sunday 1st October"}, {"0": "Sevilla", "1": "Malaga", "date": "Sunday 1st October"}, {"0": "Valencia", "1": "Athletic Bilbao", "date": "Sunday 1st October"}, {"0": "Villarreal", "1": "Eibar", "date": "Sunday 1st October"}, {"0": "Alaves", "1": "Real Sociedad", "date": "Sunday 15th October"}, {"0": "Athletic Bilbao", "1": "Sevilla", "date": "Sunday 15th October"}, {"0": "Atletico Madrid", "1": "Barcelona", "date": "Sunday 15th October"}, {"0": "Eibar", "1": "Deportivo La Coruna", "date": "Sunday 15th October"}, {"0": "Espanyol", "1": "Levante", "date": "Sunday 15th October"}, {"0": "Getafe", "1": "Real Madrid", "date": "Sunday 15th October"}, {"0": "Girona", "1": "Villarreal", "date": "Sunday 15th October"}, {"0": "Las Palmas", "1": "Celta Vigo", "date": "Sunday 15th October"}, {"0": "Malaga", "1": "Leganes", "date": "Sunday 15th October"}, {"0": "Real Betis", "1": "Valencia", "date": "Sunday 15th October"}, {"0": "Barcelona", "1": "Malaga", "date": "Sunday 22nd October"}, {"0": "Celta Vigo", "1": "Atletico Madrid", "date": "Sunday 22nd October"}, {"0": "Deportivo La Coruna", "1": "Girona", "date": "Sunday 22nd October"}, {"0": "Leganes", "1": "Athletic Bilbao", "date": "Sunday 22nd October"}, {"0": "Levante", "1": "Getafe", "date": "Sunday 22nd October"}, {"0": "Real Betis", "1": "Alaves", "date": "Sunday 22nd October"}, {"0": "Real Madrid", "1": "Eibar", "date": "Sunday 22nd October"}, {"0": "Real Sociedad", "1": "Espanyol", "date": "Sunday 22nd October"}, {"0": "Valencia", "1": "Sevilla", "date": "Sunday 22nd October"}, {"0": "Villarreal", "1": "Las Palmas", "date": "Sunday 22nd October"}, {"0": "Alaves", "1": "Valencia", "date": "Sunday 29th October"}, {"0": "Athletic Bilbao", "1": "Barcelona", "date": "Sunday 29th October"}, {"0": "Atletico Madrid", "1": "Villarreal", "date": "Sunday 29th October"}, {"0": "Eibar", "1": "Levante", "date": "Sunday 29th October"}, {"0": "Espanyol", "1": "Real Betis", "date": "Sunday 29th October"}, {"0": "Getafe", "1": "Real Sociedad", "date": "Sunday 29th October"}, {"0": "Girona", "1": "Real Madrid", "date": "Sunday 29th October"}, {"0": "Las Palmas", "1": "Deportivo La Coruna", "date": "Sunday 29th October"}, {"0": "Malaga", "1": "Celta Vigo", "date": "Sunday 29th October"}, {"0": "Sevilla", "1": "Leganes", "date": "Sunday 29th October"}, {"0": "Alaves", "1": "Espanyol", "date": "Sunday 5th November"}, {"0": "Barcelona", "1": "Sevilla", "date": "Sunday 5th November"}, {"0": "Celta Vigo", "1": "Athletic Bilbao", "date": "Sunday 5th November"}, {"0": "Deportivo La Coruna", "1": "Atletico Madrid", "date": "Sunday 5th November"}, {"0": "Levante", "1": "Girona", "date": "Sunday 5th November"}, {"0": "Real Betis", "1": "Getafe", "date": "Sunday 5th November"}, {"0": "Real Madrid", "1": "Las Palmas", "date": "Sunday 5th November"}, {"0": "Real Sociedad", "1": "Eibar", "date": "Sunday 5th November"}, {"0": "Valencia", "1": "Leganes", "date": "Sunday 5th November"}, {"0": "Villarreal", "1": "Malaga", "date": "Sunday 5th November"}, {"0": "Athletic Bilbao", "1": "Villarreal", "date": "Sunday 19th November"}, {"0": "Atletico Madrid", "1": "Real Madrid", "date": "Sunday 19th November"}, {"0": "Eibar", "1": "Real Betis", "date": "Sunday 19th November"}, {"0": "Espanyol", "1": "Valencia", "date": "Sunday 19th November"}, {"0": "Getafe", "1": "Alaves", "date": "Sunday 19th November"}, {"0": "Girona", "1": "Real Sociedad", "date": "Sunday 19th November"}, {"0": "Las Palmas", "1": "Levante", "date": "Sunday 19th November"}, {"0": "Leganes", "1": "Barcelona", "date": "Sunday 19th November"}, {"0": "Malaga", "1": "Deportivo La Coruna", "date": "Sunday 19th November"}, {"0": "Sevilla", "1": "Celta Vigo", "date": "Sunday 19th November"}, {"0": "Alaves", "1": "Eibar", "date": "Sunday 26th November"}, {"0": "Celta Vigo", "1": "Leganes", "date": "Sunday 26th November"}, {"0": "Deportivo La Coruna", "1": "Athletic Bilbao", "date": "Sunday 26th November"}, {"0": "Espanyol", "1": "Getafe", "date": "Sunday 26th November"}, {"0": "Levante", "1": "Atletico Madrid", "date": "Sunday 26th November"}, {"0": "Real Betis", "1": "Girona", "date": "Sunday 26th November"}, {"0": "Real Madrid", "1": "Malaga", "date": "Sunday 26th November"}, {"0": "Real Sociedad", "1": "Las Palmas", "date": "Sunday 26th November"}, {"0": "Valencia", "1": "Barcelona", "date": "Sunday 26th November"}, {"0": "Villarreal", "1": "Sevilla", "date": "Sunday 26th November"}, {"0": "Athletic Bilbao", "1": "Real Madrid", "date": "Sunday 3rd December"}, {"0": "Atletico Madrid", "1": "Real Sociedad", "date": "Sunday 3rd December"}, {"0": "Barcelona", "1": "Celta Vigo", "date": "Sunday 3rd December"}, {"0": "Eibar", "1": "Espanyol", "date": "Sunday 3rd December"}, {"0": "Getafe", "1": "Valencia", "date": "Sunday 3rd December"}, {"0": "Girona", "1": "Alaves", "date": "Sunday 3rd December"}, {"0": "Las Palmas", "1": "Real Betis", "date": "Sunday 3rd December"}, {"0": "Leganes", "1": "Villarreal", "date": "Sunday 3rd December"}, {"0": "Malaga", "1": "Levante", "date": "Sunday 3rd December"}, {"0": "Sevilla", "1": "Deportivo La Coruna", "date": "Sunday 3rd December"}, {"0": "Alaves", "1": "Las Palmas", "date": "Sunday 10th December"}, {"0": "Deportivo La Coruna", "1": "Leganes", "date": "Sunday 10th December"}, {"0": "Espanyol", "1": "Girona", "date": "Sunday 10th December"}, {"0": "Getafe", "1": "Eibar", "date": "Sunday 10th December"}, {"0": "Levante", "1": "Athletic Bilbao", "date": "Sunday 10th December"}, {"0": "Real Betis", "1": "Atletico Madrid", "date": "Sunday 10th December"}, {"0": "Real Madrid", "1": "Sevilla", "date": "Sunday 10th December"}, {"0": "Real Sociedad", "1": "Malaga", "date": "Sunday 10th December"}, {"0": "Valencia", "1": "Celta Vigo", "date": "Sunday 10th December"}, {"0": "Villarreal", "1": "Barcelona", "date": "Sunday 10th December"}, {"0": "Athletic Bilbao", "1": "Real Sociedad", "date": "Sunday 17th December"}, {"0": "Atletico Madrid", "1": "Alaves", "date": "Sunday 17th December"}, {"0": "Barcelona", "1": "Deportivo La Coruna", "date": "Sunday 17th December"}, {"0": "Celta Vigo", "1": "Villarreal", "date": "Sunday 17th December"}, {"0": "Eibar", "1": "Valencia", "date": "Sunday 17th December"}, {"0": "Girona", "1": "Getafe", "date": "Sunday 17th December"}, {"0": "Las Palmas", "1": "Espanyol", "date": "Sunday 17th December"}, {"0": "Leganes", "1": "Real Madrid", "date": "Sunday 17th December"}, {"0": "Malaga", "1": "Real Betis", "date": "Sunday 17th December"}, {"0": "Sevilla", "1": "Levante", "date": "Sunday 17th December"}, {"0": "Alaves", "1": "Malaga", "date": "Wednesday 20th December"}, {"0": "Deportivo La Coruna", "1": "Celta Vigo", "date": "Wednesday 20th December"}, {"0": "Eibar", "1": "Girona", "date": "Wednesday 20th December"}, {"0": "Espanyol", "1": "Atletico Madrid", "date": "Wednesday 20th December"}, {"0": "Getafe", "1": "Las Palmas", "date": "Wednesday 20th December"}, {"0": "Levante", "1": "Leganes", "date": "Wednesday 20th December"}, {"0": "Real Betis", "1": "Athletic Bilbao", "date": "Wednesday 20th December"}, {"0": "Real Madrid", "1": "Barcelona", "date": "Wednesday 20th December"}, {"0": "Real Sociedad", "1": "Sevilla", "date": "Wednesday 20th December"}, {"0": "Valencia", "1": "Villarreal", "date": "Wednesday 20th December"}, {"0": "Athletic Bilbao", "1": "Alaves", "date": "Sunday 7th January"}, {"0": "Atletico Madrid", "1": "Getafe", "date": "Sunday 7th January"}, {"0": "Barcelona", "1": "Levante", "date": "Sunday 7th January"}, {"0": "Celta Vigo", "1": "Real Madrid", "date": "Sunday 7th January"}, {"0": "Las Palmas", "1": "Eibar", "date": "Sunday 7th January"}, {"0": "Leganes", "1": "Real Sociedad", "date": "Sunday 7th January"}, {"0": "Malaga", "1": "Espanyol", "date": "Sunday 7th January"}, {"0": "Sevilla", "1": "Real Betis", "date": "Sunday 7th January"}, {"0": "Valencia", "1": "Girona", "date": "Sunday 7th January"}, {"0": "Villarreal", "1": "Deportivo La Coruna", "date": "Sunday 7th January"}, {"0": "Alaves", "1": "Sevilla", "date": "Sunday 14th January"}, {"0": "Deportivo La Coruna", "1": "Valencia", "date": "Sunday 14th January"}, {"0": "Eibar", "1": "Atletico Madrid", "date": "Sunday 14th January"}, {"0": "Espanyol", "1": "Athletic Bilbao", "date": "Sunday 14th January"}, {"0": "Getafe", "1": "Malaga", "date": "Sunday 14th January"}, {"0": "Girona", "1": "Las Palmas", "date": "Sunday 14th January"}, {"0": "Levante", "1": "Celta Vigo", "date": "Sunday 14th January"}, {"0": "Real Betis", "1": "Leganes", "date": "Sunday 14th January"}, {"0": "Real Madrid", "1": "Villarreal", "date": "Sunday 14th January"}, {"0": "Real Sociedad", "1": "Barcelona", "date": "Sunday 14th January"}, {"0": "Alaves", "1": "Leganes", "date": "Sunday 21st January"}, {"0": "Atletico Madrid", "1": "Girona", "date": "Sunday 21st January"}, {"0": "Eibar", "1": "Malaga", "date": "Sunday 21st January"}, {"0": "Espanyol", "1": "Sevilla", "date": "Sunday 21st January"}, {"0": "Getafe", "1": "Athletic Bilbao", "date": "Sunday 21st January"}, {"0": "Las Palmas", "1": "Valencia", "date": "Sunday 21st January"}, {"0": "Real Betis", "1": "Barcelona", "date": "Sunday 21st January"}, {"0": "Real Madrid", "1": "Deportivo La Coruna", "date": "Sunday 21st January"}, {"0": "Real Sociedad", "1": "Celta Vigo", "date": "Sunday 21st January"}, {"0": "Villarreal", "1": "Levante", "date": "Sunday 21st January"}, {"0": "Athletic Bilbao", "1": "Eibar", "date": "Sunday 28th January"}, {"0": "Atletico Madrid", "1": "Las Palmas", "date": "Sunday 28th January"}, {"0": "Barcelona", "1": "Alaves", "date": "Sunday 28th January"}, {"0": "Celta Vigo", "1": "Real Betis", "date": "Sunday 28th January"}, {"0": "Deportivo La Coruna", "1": "Levante", "date": "Sunday 28th January"}, {"0": "Leganes", "1": "Espanyol", "date": "Sunday 28th January"}, {"0": "Malaga", "1": "Girona", "date": "Sunday 28th January"}, {"0": "Sevilla", "1": "Getafe", "date": "Sunday 28th January"}, {"0": "Valencia", "1": "Real Madrid", "date": "Sunday 28th January"}, {"0": "Villarreal", "1": "Real Sociedad", "date": "Sunday 28th January"}, {"0": "Alaves", "1": "Celta Vigo", "date": "Sunday 4th February"}, {"0": "Atletico Madrid", "1": "Valencia", "date": "Sunday 4th February"}, {"0": "Eibar", "1": "Sevilla", "date": "Sunday 4th February"}, {"0": "Espanyol", "1": "Barcelona", "date": "Sunday 4th February"}, {"0": "Getafe", "1": "Leganes", "date": "Sunday 4th February"}, {"0": "Girona", "1": "Athletic Bilbao", "date": "Sunday 4th February"}, {"0": "Las Palmas", "1": "Malaga", "date": "Sunday 4th February"}, {"0": "Levante", "1": "Real Madrid", "date": "Sunday 4th February"}, {"0": "Real Betis", "1": "Villarreal", "date": "Sunday 4th February"}, {"0": "Real Sociedad", "1": "Deportivo La Coruna", "date": "Sunday 4th February"}, {"0": "Athletic Bilbao", "1": "Las Palmas", "date": "Sunday 11th February"}, {"0": "Barcelona", "1": "Getafe", "date": "Sunday 11th February"}, {"0": "Celta Vigo", "1": "Espanyol", "date": "Sunday 11th February"}, {"0": "Deportivo La Coruna", "1": "Real Betis", "date": "Sunday 11th February"}, {"0": "Leganes", "1": "Eibar", "date": "Sunday 11th February"}, {"0": "Malaga", "1": "Atletico Madrid", "date": "Sunday 11th February"}, {"0": "Real Madrid", "1": "Real Sociedad", "date": "Sunday 11th February"}, {"0": "Sevilla", "1": "Girona", "date": "Sunday 11th February"}, {"0": "Valencia", "1": "Levante", "date": "Sunday 11th February"}, {"0": "Villarreal", "1": "Alaves", "date": "Sunday 11th February"}, {"0": "Alaves", "1": "Deportivo La Coruna", "date": "Sunday 18th February"}, {"0": "Atletico Madrid", "1": "Athletic Bilbao", "date": "Sunday 18th February"}, {"0": "Eibar", "1": "Barcelona", "date": "Sunday 18th February"}, {"0": "Espanyol", "1": "Villarreal", "date": "Sunday 18th February"}, {"0": "Getafe", "1": "Celta Vigo", "date": "Sunday 18th February"}, {"0": "Girona", "1": "Leganes", "date": "Sunday 18th February"}, {"0": "Las Palmas", "1": "Sevilla", "date": "Sunday 18th February"}, {"0": "Malaga", "1": "Valencia", "date": "Sunday 18th February"}, {"0": "Real Betis", "1": "Real Madrid", "date": "Sunday 18th February"}, {"0": "Real Sociedad", "1": "Levante", "date": "Sunday 18th February"}, {"0": "Athletic Bilbao", "1": "Malaga", "date": "Sunday 25th February"}, {"0": "Barcelona", "1": "Girona", "date": "Sunday 25th February"}, {"0": "Celta Vigo", "1": "Eibar", "date": "Sunday 25th February"}, {"0": "Deportivo La Coruna", "1": "Espanyol", "date": "Sunday 25th February"}, {"0": "Leganes", "1": "Las Palmas", "date": "Sunday 25th February"}, {"0": "Levante", "1": "Real Betis", "date": "Sunday 25th February"}, {"0": "Real Madrid", "1": "Alaves", "date": "Sunday 25th February"}, {"0": "Sevilla", "1": "Atletico Madrid", "date": "Sunday 25th February"}, {"0": "Valencia", "1": "Real Sociedad", "date": "Sunday 25th February"}, {"0": "Villarreal", "1": "Getafe", "date": "Sunday 25th February"}, {"0": "Alaves", "1": "Levante", "date": "Wednesday 28th February"}, {"0": "Athletic Bilbao", "1": "Valencia", "date": "Wednesday 28th February"}, {"0": "Atletico Madrid", "1": "Leganes", "date": "Wednesday 28th February"}, {"0": "Eibar", "1": "Villarreal", "date": "Wednesday 28th February"}, {"0": "Espanyol", "1": "Real Madrid", "date": "Wednesday 28th February"}, {"0": "Getafe", "1": "Deportivo La Coruna", "date": "Wednesday 28th February"}, {"0": "Girona", "1": "Celta Vigo", "date": "Wednesday 28th February"}, {"0": "Las Palmas", "1": "Barcelona", "date": "Wednesday 28th February"}, {"0": "Malaga", "1": "Sevilla", "date": "Wednesday 28th February"}, {"0": "Real Betis", "1": "Real Sociedad", "date": "Wednesday 28th February"}, {"0": "Barcelona", "1": "Atletico Madrid", "date": "Sunday 4th March"}, {"0": "Celta Vigo", "1": "Las Palmas", "date": "Sunday 4th March"}, {"0": "Deportivo La Coruna", "1": "Eibar", "date": "Sunday 4th March"}, {"0": "Leganes", "1": "Malaga", "date": "Sunday 4th March"}, {"0": "Levante", "1": "Espanyol", "date": "Sunday 4th March"}, {"0": "Real Madrid", "1": "Getafe", "date": "Sunday 4th March"}, {"0": "Real Sociedad", "1": "Alaves", "date": "Sunday 4th March"}, {"0": "Sevilla", "1": "Athletic Bilbao", "date": "Sunday 4th March"}, {"0": "Valencia", "1": "Real Betis", "date": "Sunday 4th March"}, {"0": "Villarreal", "1": "Girona", "date": "Sunday 4th March"}, {"0": "Alaves", "1": "Real Betis", "date": "Sunday 11th March"}, {"0": "Athletic Bilbao", "1": "Leganes", "date": "Sunday 11th March"}, {"0": "Atletico Madrid", "1": "Celta Vigo", "date": "Sunday 11th March"}, {"0": "Eibar", "1": "Real Madrid", "date": "Sunday 11th March"}, {"0": "Espanyol", "1": "Real Sociedad", "date": "Sunday 11th March"}, {"0": "Getafe", "1": "Levante", "date": "Sunday 11th March"}, {"0": "Girona", "1": "Deportivo La Coruna", "date": "Sunday 11th March"}, {"0": "Las Palmas", "1": "Villarreal", "date": "Sunday 11th March"}, {"0": "Malaga", "1": "Barcelona", "date": "Sunday 11th March"}, {"0": "Sevilla", "1": "Valencia", "date": "Sunday 11th March"}, {"0": "Barcelona", "1": "Athletic Bilbao", "date": "Sunday 18th March"}, {"0": "Celta Vigo", "1": "Malaga", "date": "Sunday 18th March"}, {"0": "Deportivo La Coruna", "1": "Las Palmas", "date": "Sunday 18th March"}, {"0": "Leganes", "1": "Sevilla", "date": "Sunday 18th March"}, {"0": "Levante", "1": "Eibar", "date": "Sunday 18th March"}, {"0": "Real Betis", "1": "Espanyol", "date": "Sunday 18th March"}, {"0": "Real Madrid", "1": "Girona", "date": "Sunday 18th March"}, {"0": "Real Sociedad", "1": "Getafe", "date": "Sunday 18th March"}, {"0": "Valencia", "1": "Alaves", "date": "Sunday 18th March"}, {"0": "Villarreal", "1": "Atletico Madrid", "date": "Sunday 18th March"}, {"0": "Athletic Bilbao", "1": "Celta Vigo", "date": "Sunday 1st April"}, {"0": "Atletico Madrid", "1": "Deportivo La Coruna", "date": "Sunday 1st April"}, {"0": "Eibar", "1": "Real Sociedad", "date": "Sunday 1st April"}, {"0": "Espanyol", "1": "Alaves", "date": "Sunday 1st April"}, {"0": "Getafe", "1": "Real Betis", "date": "Sunday 1st April"}, {"0": "Girona", "1": "Levante", "date": "Sunday 1st April"}, {"0": "Las Palmas", "1": "Real Madrid", "date": "Sunday 1st April"}, {"0": "Leganes", "1": "Valencia", "date": "Sunday 1st April"}, {"0": "Malaga", "1": "Villarreal", "date": "Sunday 1st April"}, {"0": "Sevilla", "1": "Barcelona", "date": "Sunday 1st April"}, {"0": "Alaves", "1": "Getafe", "date": "Sunday 8th April"}, {"0": "Barcelona", "1": "Leganes", "date": "Sunday 8th April"}, {"0": "Celta Vigo", "1": "Sevilla", "date": "Sunday 8th April"}, {"0": "Deportivo La Coruna", "1": "Malaga", "date": "Sunday 8th April"}, {"0": "Levante", "1": "Las Palmas", "date": "Sunday 8th April"}, {"0": "Real Betis", "1": "Eibar", "date": "Sunday 8th April"}, {"0": "Real Madrid", "1": "Atletico Madrid", "date": "Sunday 8th April"}, {"0": "Real Sociedad", "1": "Girona", "date": "Sunday 8th April"}, {"0": "Valencia", "1": "Espanyol", "date": "Sunday 8th April"}, {"0": "Villarreal", "1": "Athletic Bilbao", "date": "Sunday 8th April"}, {"0": "Athletic Bilbao", "1": "Deportivo La Coruna", "date": "Sunday 15th April"}, {"0": "Atletico Madrid", "1": "Levante", "date": "Sunday 15th April"}, {"0": "Barcelona", "1": "Valencia", "date": "Sunday 15th April"}, {"0": "Eibar", "1": "Alaves", "date": "Sunday 15th April"}, {"0": "Getafe", "1": "Espanyol", "date": "Sunday 15th April"}, {"0": "Girona", "1": "Real Betis", "date": "Sunday 15th April"}, {"0": "Las Palmas", "1": "Real Sociedad", "date": "Sunday 15th April"}, {"0": "Leganes", "1": "Celta Vigo", "date": "Sunday 15th April"}, {"0": "Malaga", "1": "Real Madrid", "date": "Sunday 15th April"}, {"0": "Sevilla", "1": "Villarreal", "date": "Sunday 15th April"}, {"0": "Alaves", "1": "Girona", "date": "Wednesday 18th April"}, {"0": "Celta Vigo", "1": "Barcelona", "date": "Wednesday 18th April"}, {"0": "Deportivo La Coruna", "1": "Sevilla", "date": "Wednesday 18th April"}, {"0": "Espanyol", "1": "Eibar", "date": "Wednesday 18th April"}, {"0": "Levante", "1": "Malaga", "date": "Wednesday 18th April"}, {"0": "Real Betis", "1": "Las Palmas", "date": "Wednesday 18th April"}, {"0": "Real Madrid", "1": "Athletic Bilbao", "date": "Wednesday 18th April"}, {"0": "Real Sociedad", "1": "Atletico Madrid", "date": "Wednesday 18th April"}, {"0": "Valencia", "1": "Getafe", "date": "Wednesday 18th April"}, {"0": "Villarreal", "1": "Leganes", "date": "Wednesday 18th April"}, {"0": "Athletic Bilbao", "1": "Levante", "date": "Sunday 22nd April"}, {"0": "Atletico Madrid", "1": "Real Betis", "date": "Sunday 22nd April"}, {"0": "Barcelona", "1": "Villarreal", "date": "Sunday 22nd April"}, {"0": "Celta Vigo", "1": "Valencia", "date": "Sunday 22nd April"}, {"0": "Eibar", "1": "Getafe", "date": "Sunday 22nd April"}, {"0": "Girona", "1": "Espanyol", "date": "Sunday 22nd April"}, {"0": "Las Palmas", "1": "Alaves", "date": "Sunday 22nd April"}, {"0": "Leganes", "1": "Deportivo La Coruna", "date": "Sunday 22nd April"}, {"0": "Malaga", "1": "Real Sociedad", "date": "Sunday 22nd April"}, {"0": "Sevilla", "1": "Real Madrid", "date": "Sunday 22nd April"}, {"0": "Alaves", "1": "Atletico Madrid", "date": "Sunday 29th April"}, {"0": "Deportivo La Coruna", "1": "Barcelona", "date": "Sunday 29th April"}, {"0": "Espanyol", "1": "Las Palmas", "date": "Sunday 29th April"}, {"0": "Getafe", "1": "Girona", "date": "Sunday 29th April"}, {"0": "Levante", "1": "Sevilla", "date": "Sunday 29th April"}, {"0": "Real Betis", "1": "Malaga", "date": "Sunday 29th April"}, {"0": "Real Madrid", "1": "Leganes", "date": "Sunday 29th April"}, {"0": "Real Sociedad", "1": "Athletic Bilbao", "date": "Sunday 29th April"}, {"0": "Valencia", "1": "Eibar", "date": "Sunday 29th April"}, {"0": "Villarreal", "1": "Celta Vigo", "date": "Sunday 29th April"}, {"0": "Athletic Bilbao", "1": "Real Betis", "date": "Sunday 6th May"}, {"0": "Atletico Madrid", "1": "Espanyol", "date": "Sunday 6th May"}, {"0": "Barcelona", "1": "Real Madrid", "date": "Sunday 6th May"}, {"0": "Celta Vigo", "1": "Deportivo La Coruna", "date": "Sunday 6th May"}, {"0": "Girona", "1": "Eibar", "date": "Sunday 6th May"}, {"0": "Las Palmas", "1": "Getafe", "date": "Sunday 6th May"}, {"0": "Leganes", "1": "Levante", "date": "Sunday 6th May"}, {"0": "Malaga", "1": "Alaves", "date": "Sunday 6th May"}, {"0": "Sevilla", "1": "Real Sociedad", "date": "Sunday 6th May"}, {"0": "Villarreal", "1": "Valencia", "date": "Sunday 6th May"}, {"0": "Alaves", "1": "Athletic Bilbao", "date": "Sunday 13th May"}, {"0": "Deportivo La Coruna", "1": "Villarreal", "date": "Sunday 13th May"}, {"0": "Eibar", "1": "Las Palmas", "date": "Sunday 13th May"}, {"0": "Espanyol", "1": "Malaga", "date": "Sunday 13th May"}, {"0": "Getafe", "1": "Atletico Madrid", "date": "Sunday 13th May"}, {"0": "Girona", "1": "Valencia", "date": "Sunday 13th May"}, {"0": "Levante", "1": "Barcelona", "date": "Sunday 13th May"}, {"0": "Real Betis", "1": "Sevilla", "date": "Sunday 13th May"}, {"0": "Real Madrid", "1": "Celta Vigo", "date": "Sunday 13th May"}, {"0": "Real Sociedad", "1": "Leganes", "date": "Sunday 13th May"}, {"0": "Athletic Bilbao", "1": "Espanyol", "date": "Sunday 20th May"}, {"0": "Atletico Madrid", "1": "Eibar", "date": "Sunday 20th May"}, {"0": "Barcelona", "1": "Real Sociedad", "date": "Sunday 20th May"}, {"0": "Celta Vigo", "1": "Levante", "date": "Sunday 20th May"}, {"0": "Las Palmas", "1": "Girona", "date": "Sunday 20th May"}, {"0": "Leganes", "1": "Real Betis", "date": "Sunday 20th May"}, {"0": "Malaga", "1": "Getafe", "date": "Sunday 20th May"}, {"0": "Sevilla", "1": "Alaves", "date": "Sunday 20th May"}, {"0": "Valencia", "1": "Deportivo La Coruna", "date": "Sunday 20th May"}, {"0": "Villarreal", "1": "Real Madrid", "date": "Sunday 20th May"}]
+[
+  {
+    "date": "Friday, August 18",
+    "fixtures": [
+      {
+        "home": "Leganes",
+        "away": "Alavés"
+      },
+      {
+        "home": "Valencia",
+        "away": "Las Palmas"
+      }
+    ]
+  },
+  {
+    "date": "Saturday, August 19",
+    "fixtures": [
+      {
+        "home": "Celta Vigo",
+        "away": "Real Sociedad"
+      },
+      {
+        "home": "Girona",
+        "away": "Atlético Madrid"
+      },
+      {
+        "home": "Sevilla",
+        "away": "Espanyol"
+      }
+    ]
+  },
+  {
+    "date": "Sunday, August 20",
+    "fixtures": [
+      {
+        "home": "Athletic",
+        "away": "Getafe"
+      },
+      {
+        "home": "Barcelona",
+        "away": "Betis"
+      },
+      {
+        "home": "Deportivo",
+        "away": "Real Madrid"
+      }
+    ]
+  },
+  {
+    "date": "Monday, August 21",
+    "fixtures": [
+      {
+        "home": "Levante",
+        "away": "Villarreal"
+      },
+      {
+        "home": "Málaga",
+        "away": "Eibar"
+      }
+    ]
+  },
+  {
+    "date": "Friday, August 25",
+    "fixtures": [
+      {
+        "home": "Real Sociedad",
+        "away": "Villarreal"
+      },
+      {
+        "home": "Betis",
+        "away": "Celta Vigo"
+      }
+    ]
+  },
+  {
+    "date": "Saturday, August 26",
+    "fixtures": [
+      {
+        "home": "Alavés",
+        "away": "Barcelona"
+      },
+      {
+        "home": "Levante",
+        "away": "Deportivo"
+      },
+      {
+        "home": "Girona",
+        "away": "Málaga"
+      },
+      {
+        "home": "Las Palmas",
+        "away": "Atlético Madrid"
+      }
+    ]
+  },
+  {
+    "date": "Sunday, August 27",
+    "fixtures": [
+      {
+        "home": "Espanyol",
+        "away": "Leganes"
+      },
+      {
+        "home": "Eibar",
+        "away": "Athletic"
+      },
+      {
+        "home": "Getafe",
+        "away": "Sevilla"
+      },
+      {
+        "home": "Real Madrid",
+        "away": "Valencia"
+      }
+    ]
+  },
+  {
+    "date": "Sunday, September 10",
+    "fixtures": [
+      {
+        "home": "Athletic",
+        "away": "Girona"
+      },
+      {
+        "home": "Barcelona",
+        "away": "Espanyol"
+      },
+      {
+        "home": "Real Madrid",
+        "away": "Levante"
+      },
+      {
+        "home": "Celta Vigo",
+        "away": "Alavés"
+      },
+      {
+        "home": "Deportivo",
+        "away": "Real Sociedad"
+      },
+      {
+        "home": "Málaga",
+        "away": "Las Palmas"
+      },
+      {
+        "home": "Valencia",
+        "away": "Atlético Madrid"
+      },
+      {
+        "home": "Sevilla",
+        "away": "Eibar"
+      },
+      {
+        "home": "Leganes",
+        "away": "Getafe"
+      },
+      {
+        "home": "Villarreal",
+        "away": "Betis"
+      }
+    ]
+  },
+  {
+    "date": "Sunday, September 17",
+    "fixtures": [
+      {
+        "home": "Getafe",
+        "away": "Barcelona"
+      },
+      {
+        "home": "Levante",
+        "away": "Valencia"
+      },
+      {
+        "home": "Girona",
+        "away": "Sevilla"
+      },
+      {
+        "home": "Alavés",
+        "away": "Villarreal"
+      },
+      {
+        "home": "Espanyol",
+        "away": "Celta Vigo"
+      },
+      {
+        "home": "Real Sociedad",
+        "away": "Real Madrid"
+      },
+      {
+        "home": "Betis",
+        "away": "Deportivo"
+      },
+      {
+        "home": "Eibar",
+        "away": "Leganes"
+      },
+      {
+        "home": "Atlético Madrid",
+        "away": "Málaga"
+      },
+      {
+        "home": "Las Palmas",
+        "away": "Athletic"
+      }
+    ]
+  },
+  {
+    "date": "Wednesday, September 20",
+    "fixtures": [
+      {
+        "home": "Athletic",
+        "away": "Atlético Madrid"
+      },
+      {
+        "home": "Barcelona",
+        "away": "Eibar"
+      },
+      {
+        "home": "Real Madrid",
+        "away": "Betis"
+      },
+      {
+        "home": "Celta Vigo",
+        "away": "Getafe"
+      },
+      {
+        "home": "Deportivo",
+        "away": "Alavés"
+      },
+      {
+        "home": "Valencia",
+        "away": "Málaga"
+      },
+      {
+        "home": "Sevilla",
+        "away": "Las Palmas"
+      },
+      {
+        "home": "Levante",
+        "away": "Real Sociedad"
+      },
+      {
+        "home": "Leganes",
+        "away": "Girona"
+      },
+      {
+        "home": "Villarreal",
+        "away": "Espanyol"
+      }
+    ]
+  },
+  {
+    "date": "Sunday, September 24",
+    "fixtures": [
+      {
+        "home": "Getafe",
+        "away": "Villarreal"
+      },
+      {
+        "home": "Málaga",
+        "away": "Athletic"
+      },
+      {
+        "home": "Girona",
+        "away": "Barcelona"
+      },
+      {
+        "home": "Alavés",
+        "away": "Real Madrid"
+      },
+      {
+        "home": "Espanyol",
+        "away": "Deportivo"
+      },
+      {
+        "home": "Real Sociedad",
+        "away": "Valencia"
+      },
+      {
+        "home": "Betis",
+        "away": "Levante"
+      },
+      {
+        "home": "Eibar",
+        "away": "Celta Vigo"
+      },
+      {
+        "home": "Atlético Madrid",
+        "away": "Sevilla"
+      },
+      {
+        "home": "Las Palmas",
+        "away": "Leganes"
+      }
+    ]
+  },
+  {
+    "date": "Sunday, October 1",
+    "fixtures": [
+      {
+        "home": "Barcelona",
+        "away": "Las Palmas"
+      },
+      {
+        "home": "Real Madrid",
+        "away": "Espanyol"
+      },
+      {
+        "home": "Celta Vigo",
+        "away": "Girona"
+      },
+      {
+        "home": "Deportivo",
+        "away": "Getafe"
+      },
+      {
+        "home": "Valencia",
+        "away": "Athletic"
+      },
+      {
+        "home": "Sevilla",
+        "away": "Málaga"
+      },
+      {
+        "home": "Levante",
+        "away": "Alavés"
+      },
+      {
+        "home": "Leganes",
+        "away": "Atlético Madrid"
+      },
+      {
+        "home": "Real Sociedad",
+        "away": "Betis"
+      },
+      {
+        "home": "Villarreal",
+        "away": "Eibar"
+      }
+    ]
+  },
+  {
+    "date": "Sunday, October 15",
+    "fixtures": [
+      {
+        "home": "Athletic",
+        "away": "Sevilla"
+      },
+      {
+        "home": "Getafe",
+        "away": "Real Madrid"
+      },
+      {
+        "home": "Málaga",
+        "away": "Leganes"
+      },
+      {
+        "home": "Girona",
+        "away": "Villarreal"
+      },
+      {
+        "home": "Alavés",
+        "away": "Real Sociedad"
+      },
+      {
+        "home": "Espanyol",
+        "away": "Levante"
+      },
+      {
+        "home": "Betis",
+        "away": "Valencia"
+      },
+      {
+        "home": "Eibar",
+        "away": "Deportivo"
+      },
+      {
+        "home": "Atlético Madrid",
+        "away": "Barcelona"
+      },
+      {
+        "home": "Las Palmas",
+        "away": "Celta Vigo"
+      }
+    ]
+  },
+  {
+    "date": "Sunday, October 22",
+    "fixtures": [
+      {
+        "home": "Barcelona",
+        "away": "Málaga"
+      },
+      {
+        "home": "Real Madrid",
+        "away": "Eibar"
+      },
+      {
+        "home": "Celta Vigo",
+        "away": "Atlético Madrid"
+      },
+      {
+        "home": "Deportivo",
+        "away": "Girona"
+      },
+      {
+        "home": "Valencia",
+        "away": "Sevilla"
+      },
+      {
+        "home": "Levante",
+        "away": "Getafe"
+      },
+      {
+        "home": "Leganes",
+        "away": "Athletic"
+      },
+      {
+        "home": "Real Sociedad",
+        "away": "Espanyol"
+      },
+      {
+        "home": "Betis",
+        "away": "Alavés"
+      },
+      {
+        "home": "Villarreal",
+        "away": "Las Palmas"
+      }
+    ]
+  },
+  {
+    "date": "Sunday, October 29",
+    "fixtures": [
+      {
+        "home": "Athletic",
+        "away": "Barcelona"
+      },
+      {
+        "home": "Getafe",
+        "away": "Real Sociedad"
+      },
+      {
+        "home": "Málaga",
+        "away": "Celta Vigo"
+      },
+      {
+        "home": "Sevilla",
+        "away": "Leganes"
+      },
+      {
+        "home": "Girona",
+        "away": "Real Madrid"
+      },
+      {
+        "home": "Alavés",
+        "away": "Valencia"
+      },
+      {
+        "home": "Espanyol",
+        "away": "Betis"
+      },
+      {
+        "home": "Eibar",
+        "away": "Levante"
+      },
+      {
+        "home": "Atlético Madrid",
+        "away": "Villarreal"
+      },
+      {
+        "home": "Las Palmas",
+        "away": "Deportivo"
+      }
+    ]
+  },
+  {
+    "date": "Sunday, November 5",
+    "fixtures": [
+      {
+        "home": "Barcelona",
+        "away": "Sevilla"
+      },
+      {
+        "home": "Real Madrid",
+        "away": "Las Palmas"
+      },
+      {
+        "home": "Celta Vigo",
+        "away": "Athletic"
+      },
+      {
+        "home": "Deportivo",
+        "away": "Atlético Madrid"
+      },
+      {
+        "home": "Valencia",
+        "away": "Leganes"
+      },
+      {
+        "home": "Levante",
+        "away": "Girona"
+      },
+      {
+        "home": "Alavés",
+        "away": "Espanyol"
+      },
+      {
+        "home": "Real Sociedad",
+        "away": "Eibar"
+      },
+      {
+        "home": "Betis",
+        "away": "Getafe"
+      },
+      {
+        "home": "Villarreal",
+        "away": "Málaga"
+      }
+    ]
+  },
+  {
+    "date": "Sunday, November 19",
+    "fixtures": [
+      {
+        "home": "Athletic",
+        "away": "Villarreal"
+      },
+      {
+        "home": "Getafe",
+        "away": "Alavés"
+      },
+      {
+        "home": "Málaga",
+        "away": "Deportivo"
+      },
+      {
+        "home": "Sevilla",
+        "away": "Celta Vigo"
+      },
+      {
+        "home": "Girona",
+        "away": "Real Sociedad"
+      },
+      {
+        "home": "Leganes",
+        "away": "Barcelona"
+      },
+      {
+        "home": "Espanyol",
+        "away": "Valencia"
+      },
+      {
+        "home": "Eibar",
+        "away": "Betis"
+      },
+      {
+        "home": "Atlético Madrid",
+        "away": "Real Madrid"
+      },
+      {
+        "home": "Las Palmas",
+        "away": "Levante"
+      }
+    ]
+  },
+  {
+    "date": "Sunday, November 26",
+    "fixtures": [
+      {
+        "home": "Real Madrid",
+        "away": "Málaga"
+      },
+      {
+        "home": "Celta Vigo",
+        "away": "Leganes"
+      },
+      {
+        "home": "Deportivo",
+        "away": "Athletic"
+      },
+      {
+        "home": "Valencia",
+        "away": "Barcelona"
+      },
+      {
+        "home": "Levante",
+        "away": "Atlético Madrid"
+      },
+      {
+        "home": "Alavés",
+        "away": "Eibar"
+      },
+      {
+        "home": "Espanyol",
+        "away": "Getafe"
+      },
+      {
+        "home": "Real Sociedad",
+        "away": "Las Palmas"
+      },
+      {
+        "home": "Betis",
+        "away": "Girona"
+      },
+      {
+        "home": "Villarreal",
+        "away": "Sevilla"
+      }
+    ]
+  },
+  {
+    "date": "Sunday, December 3",
+    "fixtures": [
+      {
+        "home": "Athletic",
+        "away": "Real Madrid"
+      },
+      {
+        "home": "Barcelona",
+        "away": "Celta Vigo"
+      },
+      {
+        "home": "Getafe",
+        "away": "Valencia"
+      },
+      {
+        "home": "Málaga",
+        "away": "Levante"
+      },
+      {
+        "home": "Sevilla",
+        "away": "Deportivo"
+      },
+      {
+        "home": "Girona",
+        "away": "Alavés"
+      },
+      {
+        "home": "Leganes",
+        "away": "Villarreal"
+      },
+      {
+        "home": "Eibar",
+        "away": "Espanyol"
+      },
+      {
+        "home": "Atlético Madrid",
+        "away": "Real Sociedad"
+      },
+      {
+        "home": "Las Palmas",
+        "away": "Betis"
+      }
+    ]
+  },
+  {
+    "date": "Sunday, December 10",
+    "fixtures": [
+      {
+        "home": "Real Madrid",
+        "away": "Sevilla"
+      },
+      {
+        "home": "Getafe",
+        "away": "Eibar"
+      },
+      {
+        "home": "Deportivo",
+        "away": "Leganes"
+      },
+      {
+        "home": "Valencia",
+        "away": "Celta Vigo"
+      },
+      {
+        "home": "Levante",
+        "away": "Athletic"
+      },
+      {
+        "home": "Alavés",
+        "away": "Las Palmas"
+      },
+      {
+        "home": "Espanyol",
+        "away": "Girona"
+      },
+      {
+        "home": "Real Sociedad",
+        "away": "Málaga"
+      },
+      {
+        "home": "Betis",
+        "away": "Atlético Madrid"
+      },
+      {
+        "home": "Villarreal",
+        "away": "Barcelona"
+      }
+    ]
+  },
+  {
+    "date": "Sunday, December 17",
+    "fixtures": [
+      {
+        "home": "Athletic",
+        "away": "Real Sociedad"
+      },
+      {
+        "home": "Barcelona",
+        "away": "Deportivo"
+      },
+      {
+        "home": "Celta Vigo",
+        "away": "Villarreal"
+      },
+      {
+        "home": "Málaga",
+        "away": "Betis"
+      },
+      {
+        "home": "Sevilla",
+        "away": "Levante"
+      },
+      {
+        "home": "Girona",
+        "away": "Getafe"
+      },
+      {
+        "home": "Leganes",
+        "away": "Real Madrid"
+      },
+      {
+        "home": "Eibar",
+        "away": "Valencia"
+      },
+      {
+        "home": "Atlético Madrid",
+        "away": "Alavés"
+      },
+      {
+        "home": "Las Palmas",
+        "away": "Espanyol"
+      }
+    ]
+  },
+  {
+    "date": "Wednesday, December 20",
+    "fixtures": [
+      {
+        "home": "Real Madrid",
+        "away": "Barcelona"
+      },
+      {
+        "home": "Getafe",
+        "away": "Las Palmas"
+      },
+      {
+        "home": "Deportivo",
+        "away": "Celta Vigo"
+      },
+      {
+        "home": "Valencia",
+        "away": "Villarreal"
+      },
+      {
+        "home": "Levante",
+        "away": "Leganes"
+      },
+      {
+        "home": "Alavés",
+        "away": "Málaga"
+      },
+      {
+        "home": "Espanyol",
+        "away": "Atlético Madrid"
+      },
+      {
+        "home": "Real Sociedad",
+        "away": "Sevilla"
+      },
+      {
+        "home": "Betis",
+        "away": "Athletic"
+      },
+      {
+        "home": "Eibar",
+        "away": "Girona"
+      }
+    ]
+  },
+  {
+    "date": "Sunday, January 7",
+    "fixtures": [
+      {
+        "home": "Athletic",
+        "away": "Alavés"
+      },
+      {
+        "home": "Barcelona",
+        "away": "Levante"
+      },
+      {
+        "home": "Celta Vigo",
+        "away": "Real Madrid"
+      },
+      {
+        "home": "Málaga",
+        "away": "Espanyol"
+      },
+      {
+        "home": "Valencia",
+        "away": "Girona"
+      },
+      {
+        "home": "Sevilla",
+        "away": "Betis"
+      },
+      {
+        "home": "Leganes",
+        "away": "Real Sociedad"
+      },
+      {
+        "home": "Villarreal",
+        "away": "Deportivo"
+      },
+      {
+        "home": "Atlético Madrid",
+        "away": "Getafe"
+      },
+      {
+        "home": "Las Palmas",
+        "away": "Eibar"
+      }
+    ]
+  },
+  {
+    "date": "Sunday, January 14",
+    "fixtures": [
+      {
+        "home": "Real Madrid",
+        "away": "Villarreal"
+      },
+      {
+        "home": "Getafe",
+        "away": "Málaga"
+      },
+      {
+        "home": "Deportivo",
+        "away": "Valencia"
+      },
+      {
+        "home": "Levante",
+        "away": "Celta Vigo"
+      },
+      {
+        "home": "Girona",
+        "away": "Las Palmas"
+      },
+      {
+        "home": "Alavés",
+        "away": "Sevilla"
+      },
+      {
+        "home": "Espanyol",
+        "away": "Athletic"
+      },
+      {
+        "home": "Real Sociedad",
+        "away": "Barcelona"
+      },
+      {
+        "home": "Betis",
+        "away": "Leganes"
+      },
+      {
+        "home": "Eibar",
+        "away": "Atlético Madrid"
+      }
+    ]
+  },
+  {
+    "date": "Sunday, January 21",
+    "fixtures": [
+      {
+        "home": "Real Madrid",
+        "away": "Deportivo"
+      },
+      {
+        "home": "Getafe",
+        "away": "Athletic"
+      },
+      {
+        "home": "Alavés",
+        "away": "Leganes"
+      },
+      {
+        "home": "Espanyol",
+        "away": "Sevilla"
+      },
+      {
+        "home": "Real Sociedad",
+        "away": "Celta Vigo"
+      },
+      {
+        "home": "Betis",
+        "away": "Barcelona"
+      },
+      {
+        "home": "Eibar",
+        "away": "Málaga"
+      },
+      {
+        "home": "Villarreal",
+        "away": "Levante"
+      },
+      {
+        "home": "Atlético Madrid",
+        "away": "Girona"
+      },
+      {
+        "home": "Las Palmas",
+        "away": "Valencia"
+      }
+    ]
+  },
+  {
+    "date": "Sunday, January 28",
+    "fixtures": [
+      {
+        "home": "Athletic",
+        "away": "Eibar"
+      },
+      {
+        "home": "Barcelona",
+        "away": "Alavés"
+      },
+      {
+        "home": "Celta Vigo",
+        "away": "Betis"
+      },
+      {
+        "home": "Deportivo",
+        "away": "Levante"
+      },
+      {
+        "home": "Málaga",
+        "away": "Girona"
+      },
+      {
+        "home": "Valencia",
+        "away": "Real Madrid"
+      },
+      {
+        "home": "Sevilla",
+        "away": "Getafe"
+      },
+      {
+        "home": "Leganes",
+        "away": "Espanyol"
+      },
+      {
+        "home": "Villarreal",
+        "away": "Real Sociedad"
+      },
+      {
+        "home": "Atlético Madrid",
+        "away": "Las Palmas"
+      }
+    ]
+  },
+  {
+    "date": "Sunday, February 4",
+    "fixtures": [
+      {
+        "home": "Getafe",
+        "away": "Leganes"
+      },
+      {
+        "home": "Levante",
+        "away": "Real Madrid"
+      },
+      {
+        "home": "Girona",
+        "away": "Athletic"
+      },
+      {
+        "home": "Alavés",
+        "away": "Celta Vigo"
+      },
+      {
+        "home": "Espanyol",
+        "away": "Barcelona"
+      },
+      {
+        "home": "Real Sociedad",
+        "away": "Deportivo"
+      },
+      {
+        "home": "Betis",
+        "away": "Villarreal"
+      },
+      {
+        "home": "Eibar",
+        "away": "Sevilla"
+      },
+      {
+        "home": "Atlético Madrid",
+        "away": "Valencia"
+      },
+      {
+        "home": "Las Palmas",
+        "away": "Málaga"
+      }
+    ]
+  },
+  {
+    "date": "Sunday, February 11",
+    "fixtures": [
+      {
+        "home": "Athletic",
+        "away": "Las Palmas"
+      },
+      {
+        "home": "Barcelona",
+        "away": "Getafe"
+      },
+      {
+        "home": "Real Madrid",
+        "away": "Real Sociedad"
+      },
+      {
+        "home": "Celta Vigo",
+        "away": "Espanyol"
+      },
+      {
+        "home": "Deportivo",
+        "away": "Betis"
+      },
+      {
+        "home": "Málaga",
+        "away": "Atlético Madrid"
+      },
+      {
+        "home": "Valencia",
+        "away": "Levante"
+      },
+      {
+        "home": "Sevilla",
+        "away": "Girona"
+      },
+      {
+        "home": "Leganes",
+        "away": "Eibar"
+      },
+      {
+        "home": "Villarreal",
+        "away": "Alavés"
+      }
+    ]
+  },
+  {
+    "date": "Sunday, February 18",
+    "fixtures": [
+      {
+        "home": "Getafe",
+        "away": "Celta Vigo"
+      },
+      {
+        "home": "Málaga",
+        "away": "Valencia"
+      },
+      {
+        "home": "Girona",
+        "away": "Leganes"
+      },
+      {
+        "home": "Alavés",
+        "away": "Deportivo"
+      },
+      {
+        "home": "Espanyol",
+        "away": "Villarreal"
+      },
+      {
+        "home": "Real Sociedad",
+        "away": "Levante"
+      },
+      {
+        "home": "Betis",
+        "away": "Real Madrid"
+      },
+      {
+        "home": "Eibar",
+        "away": "Barcelona"
+      },
+      {
+        "home": "Atlético Madrid",
+        "away": "Athletic"
+      },
+      {
+        "home": "Las Palmas",
+        "away": "Sevilla"
+      }
+    ]
+  },
+  {
+    "date": "Sunday, February 25",
+    "fixtures": [
+      {
+        "home": "Athletic",
+        "away": "Málaga"
+      },
+      {
+        "home": "Barcelona",
+        "away": "Girona"
+      },
+      {
+        "home": "Real Madrid",
+        "away": "Alavés"
+      },
+      {
+        "home": "Celta Vigo",
+        "away": "Eibar"
+      },
+      {
+        "home": "Deportivo",
+        "away": "Espanyol"
+      },
+      {
+        "home": "Valencia",
+        "away": "Real Sociedad"
+      },
+      {
+        "home": "Sevilla",
+        "away": "Atlético Madrid"
+      },
+      {
+        "home": "Levante",
+        "away": "Betis"
+      },
+      {
+        "home": "Leganes",
+        "away": "Las Palmas"
+      },
+      {
+        "home": "Villarreal",
+        "away": "Getafe"
+      }
+    ]
+  },
+  {
+    "date": "Wednesday, February 28",
+    "fixtures": [
+      {
+        "home": "Athletic",
+        "away": "Valencia"
+      },
+      {
+        "home": "Getafe",
+        "away": "Deportivo"
+      },
+      {
+        "home": "Málaga",
+        "away": "Sevilla"
+      },
+      {
+        "home": "Girona",
+        "away": "Celta Vigo"
+      },
+      {
+        "home": "Alavés",
+        "away": "Levante"
+      },
+      {
+        "home": "Espanyol",
+        "away": "Real Madrid"
+      },
+      {
+        "home": "Betis",
+        "away": "Real Sociedad"
+      },
+      {
+        "home": "Villarreal",
+        "away": "Eibar"
+      },
+      {
+        "home": "Atlético Madrid",
+        "away": "Leganes"
+      },
+      {
+        "home": "Las Palmas",
+        "away": "Barcelona"
+      }
+    ]
+  },
+  {
+    "date": "Sunday, March 4",
+    "fixtures": [
+      {
+        "home": "Barcelona",
+        "away": "Atlético Madrid"
+      },
+      {
+        "home": "Real Madrid",
+        "away": "Getafe"
+      },
+      {
+        "home": "Celta Vigo",
+        "away": "Las Palmas"
+      },
+      {
+        "home": "Deportivo",
+        "away": "Eibar"
+      },
+      {
+        "home": "Valencia",
+        "away": "Betis"
+      },
+      {
+        "home": "Sevilla",
+        "away": "Athletic"
+      },
+      {
+        "home": "Levante",
+        "away": "Espanyol"
+      },
+      {
+        "home": "Leganes",
+        "away": "Málaga"
+      },
+      {
+        "home": "Real Sociedad",
+        "away": "Alavés"
+      },
+      {
+        "home": "Villarreal",
+        "away": "Girona"
+      }
+    ]
+  },
+  {
+    "date": "Sunday, March 11",
+    "fixtures": [
+      {
+        "home": "Athletic",
+        "away": "Leganes"
+      },
+      {
+        "home": "Getafe",
+        "away": "Levante"
+      },
+      {
+        "home": "Málaga",
+        "away": "Barcelona"
+      },
+      {
+        "home": "Sevilla",
+        "away": "Valencia"
+      },
+      {
+        "home": "Girona",
+        "away": "Deportivo"
+      },
+      {
+        "home": "Alavés",
+        "away": "Betis"
+      },
+      {
+        "home": "Espanyol",
+        "away": "Real Sociedad"
+      },
+      {
+        "home": "Eibar",
+        "away": "Real Madrid"
+      },
+      {
+        "home": "Atlético Madrid",
+        "away": "Celta Vigo"
+      },
+      {
+        "home": "Las Palmas",
+        "away": "Villarreal"
+      }
+    ]
+  },
+  {
+    "date": "Sunday, March 18",
+    "fixtures": [
+      {
+        "home": "Barcelona",
+        "away": "Athletic"
+      },
+      {
+        "home": "Real Madrid",
+        "away": "Girona"
+      },
+      {
+        "home": "Celta Vigo",
+        "away": "Málaga"
+      },
+      {
+        "home": "Deportivo",
+        "away": "Las Palmas"
+      },
+      {
+        "home": "Valencia",
+        "away": "Alavés"
+      },
+      {
+        "home": "Levante",
+        "away": "Eibar"
+      },
+      {
+        "home": "Leganes",
+        "away": "Sevilla"
+      },
+      {
+        "home": "Real Sociedad",
+        "away": "Getafe"
+      },
+      {
+        "home": "Betis",
+        "away": "Espanyol"
+      },
+      {
+        "home": "Villarreal",
+        "away": "Atlético Madrid"
+      }
+    ]
+  },
+  {
+    "date": "Sunday, April 1",
+    "fixtures": [
+      {
+        "home": "Athletic",
+        "away": "Celta Vigo"
+      },
+      {
+        "home": "Getafe",
+        "away": "Betis"
+      },
+      {
+        "home": "Málaga",
+        "away": "Villarreal"
+      },
+      {
+        "home": "Sevilla",
+        "away": "Barcelona"
+      },
+      {
+        "home": "Girona",
+        "away": "Levante"
+      },
+      {
+        "home": "Leganes",
+        "away": "Valencia"
+      },
+      {
+        "home": "Espanyol",
+        "away": "Alavés"
+      },
+      {
+        "home": "Eibar",
+        "away": "Real Sociedad"
+      },
+      {
+        "home": "Atlético Madrid",
+        "away": "Deportivo"
+      },
+      {
+        "home": "Las Palmas",
+        "away": "Real Madrid"
+      }
+    ]
+  },
+  {
+    "date": "Sunday, April 8",
+    "fixtures": [
+      {
+        "home": "Barcelona",
+        "away": "Leganes"
+      },
+      {
+        "home": "Real Madrid",
+        "away": "Atlético Madrid"
+      },
+      {
+        "home": "Celta Vigo",
+        "away": "Sevilla"
+      },
+      {
+        "home": "Deportivo",
+        "away": "Málaga"
+      },
+      {
+        "home": "Valencia",
+        "away": "Espanyol"
+      },
+      {
+        "home": "Levante",
+        "away": "Las Palmas"
+      },
+      {
+        "home": "Alavés",
+        "away": "Getafe"
+      },
+      {
+        "home": "Real Sociedad",
+        "away": "Girona"
+      },
+      {
+        "home": "Betis",
+        "away": "Eibar"
+      },
+      {
+        "home": "Villarreal",
+        "away": "Athletic"
+      }
+    ]
+  },
+  {
+    "date": "Sunday, April 15",
+    "fixtures": [
+      {
+        "home": "Athletic",
+        "away": "Deportivo"
+      },
+      {
+        "home": "Barcelona",
+        "away": "Valencia"
+      },
+      {
+        "home": "Getafe",
+        "away": "Espanyol"
+      },
+      {
+        "home": "Málaga",
+        "away": "Real Madrid"
+      },
+      {
+        "home": "Sevilla",
+        "away": "Villarreal"
+      },
+      {
+        "home": "Girona",
+        "away": "Betis"
+      },
+      {
+        "home": "Leganes",
+        "away": "Celta Vigo"
+      },
+      {
+        "home": "Eibar",
+        "away": "Alavés"
+      },
+      {
+        "home": "Atlético Madrid",
+        "away": "Levante"
+      },
+      {
+        "home": "Las Palmas",
+        "away": "Real Sociedad"
+      }
+    ]
+  },
+  {
+    "date": "Wednesday, April 18",
+    "fixtures": [
+      {
+        "home": "Real Madrid",
+        "away": "Athletic"
+      },
+      {
+        "home": "Celta Vigo",
+        "away": "Barcelona"
+      },
+      {
+        "home": "Deportivo",
+        "away": "Sevilla"
+      },
+      {
+        "home": "Valencia",
+        "away": "Getafe"
+      },
+      {
+        "home": "Levante",
+        "away": "Málaga"
+      },
+      {
+        "home": "Alavés",
+        "away": "Girona"
+      },
+      {
+        "home": "Espanyol",
+        "away": "Eibar"
+      },
+      {
+        "home": "Real Sociedad",
+        "away": "Atlético Madrid"
+      },
+      {
+        "home": "Betis",
+        "away": "Las Palmas"
+      },
+      {
+        "home": "Villarreal",
+        "away": "Leganes"
+      }
+    ]
+  },
+  {
+    "date": "Sunday, April 22",
+    "fixtures": [
+      {
+        "home": "Athletic",
+        "away": "Levante"
+      },
+      {
+        "home": "Barcelona",
+        "away": "Villarreal"
+      },
+      {
+        "home": "Celta Vigo",
+        "away": "Valencia"
+      },
+      {
+        "home": "Málaga",
+        "away": "Real Sociedad"
+      },
+      {
+        "home": "Sevilla",
+        "away": "Real Madrid"
+      },
+      {
+        "home": "Girona",
+        "away": "Espanyol"
+      },
+      {
+        "home": "Leganes",
+        "away": "Deportivo"
+      },
+      {
+        "home": "Eibar",
+        "away": "Getafe"
+      },
+      {
+        "home": "Atlético Madrid",
+        "away": "Betis"
+      },
+      {
+        "home": "Las Palmas",
+        "away": "Alavés"
+      }
+    ]
+  },
+  {
+    "date": "Sunday, April 29",
+    "fixtures": [
+      {
+        "home": "Real Madrid",
+        "away": "Leganes"
+      },
+      {
+        "home": "Getafe",
+        "away": "Girona"
+      },
+      {
+        "home": "Deportivo",
+        "away": "Barcelona"
+      },
+      {
+        "home": "Valencia",
+        "away": "Eibar"
+      },
+      {
+        "home": "Levante",
+        "away": "Sevilla"
+      },
+      {
+        "home": "Alavés",
+        "away": "Atlético Madrid"
+      },
+      {
+        "home": "Espanyol",
+        "away": "Las Palmas"
+      },
+      {
+        "home": "Real Sociedad",
+        "away": "Athletic"
+      },
+      {
+        "home": "Betis",
+        "away": "Málaga"
+      },
+      {
+        "home": "Villarreal",
+        "away": "Celta Vigo"
+      }
+    ]
+  },
+  {
+    "date": "Sunday, May 6",
+    "fixtures": [
+      {
+        "home": "Athletic",
+        "away": "Betis"
+      },
+      {
+        "home": "Barcelona",
+        "away": "Real Madrid"
+      },
+      {
+        "home": "Celta Vigo",
+        "away": "Deportivo"
+      },
+      {
+        "home": "Málaga",
+        "away": "Alavés"
+      },
+      {
+        "home": "Sevilla",
+        "away": "Real Sociedad"
+      },
+      {
+        "home": "Girona",
+        "away": "Eibar"
+      },
+      {
+        "home": "Leganes",
+        "away": "Levante"
+      },
+      {
+        "home": "Villarreal",
+        "away": "Valencia"
+      },
+      {
+        "home": "Atlético Madrid",
+        "away": "Espanyol"
+      },
+      {
+        "home": "Las Palmas",
+        "away": "Getafe"
+      }
+    ]
+  },
+  {
+    "date": "Sunday, May 13",
+    "fixtures": [
+      {
+        "home": "Real Madrid",
+        "away": "Celta Vigo"
+      },
+      {
+        "home": "Getafe",
+        "away": "Atlético Madrid"
+      },
+      {
+        "home": "Deportivo",
+        "away": "Villarreal"
+      },
+      {
+        "home": "Levante",
+        "away": "Barcelona"
+      },
+      {
+        "home": "Girona",
+        "away": "Valencia"
+      },
+      {
+        "home": "Alavés",
+        "away": "Athletic"
+      },
+      {
+        "home": "Espanyol",
+        "away": "Málaga"
+      },
+      {
+        "home": "Real Sociedad",
+        "away": "Leganes"
+      },
+      {
+        "home": "Betis",
+        "away": "Sevilla"
+      },
+      {
+        "home": "Eibar",
+        "away": "Las Palmas"
+      }
+    ]
+  },
+  {
+    "date": "Sunday, May 20",
+    "fixtures": [
+      {
+        "home": "Athletic",
+        "away": "Espanyol"
+      },
+      {
+        "home": "Barcelona",
+        "away": "Real Sociedad"
+      },
+      {
+        "home": "Celta Vigo",
+        "away": "Levante"
+      },
+      {
+        "home": "Málaga",
+        "away": "Getafe"
+      },
+      {
+        "home": "Valencia",
+        "away": "Deportivo"
+      },
+      {
+        "home": "Sevilla",
+        "away": "Alavés"
+      },
+      {
+        "home": "Leganes",
+        "away": "Betis"
+      },
+      {
+        "home": "Villarreal",
+        "away": "Real Madrid"
+      },
+      {
+        "home": "Atlético Madrid",
+        "away": "Eibar"
+      },
+      {
+        "home": "Las Palmas",
+        "away": "Girona"
+      }
+    ]
+  }
+]
