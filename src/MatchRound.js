@@ -9,15 +9,15 @@ class MatchRound extends Component {
 	}
 
 	render(){
+		const fixtures = this.fixtures.map( (fixture, i) =>
+			<Fixture key={i} fixture={fixture}></Fixture>
+		);
 		return (
-			<p>{this.roundDate}</p>
-
-			const fixtures = this.fixtures.map( (fixture, i) =>
-				<Fixture key={i} fixture={fixture}></Fixture>
-			);
-
 			<div>
-				<ul>{fixtures}</ul>
+				<p>{this.roundDate}</p>
+				<div>
+					<ul>{fixtures}</ul>
+				</div>
 			</div>
 		);
 	}

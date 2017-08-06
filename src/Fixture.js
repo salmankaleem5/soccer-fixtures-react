@@ -10,9 +10,7 @@ class Fixture extends Component {
 	render(){
 		return (
 			<li className="FixtureItem">
-				<div>
-					<p>{this.fixture[0]} vs {this.fixture[1]}</p>
-				</div>
+				<p>{this.fixture['home']} vs {this.fixture['away']}</p>
 			</li>
 		);
 	}
