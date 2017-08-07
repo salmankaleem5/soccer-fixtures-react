@@ -16,10 +16,10 @@ class FixtureContainer extends Component {
 	}
 
 	render(){
-		const fixtures = myData.map( (round_array, i) =>
-			<MatchRound key={i} round_data={round_array}></MatchRound>
-		);
 		const val = this.state.value;
+		const fixtures = myData.map( (round_array, i) =>
+			<MatchRound key={i} round_data={round_array} team_selected={val}></MatchRound>
+		);
 		return (
 			<div>
 				<TeamInput onSelectChange={this.handleSelectChange} value={val}></TeamInput>

@@ -4,3 +4,7 @@
 	border: 1px solid;
 	margin: 5px;
 }
+
+.inactive-fixture {
+	display: none;
+}
