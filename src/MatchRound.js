@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import Fixture from './Fixture';
+import './MatchRound.css';
 
 class MatchRound extends Component {
 	constructor(props){
@@ -15,7 +16,7 @@ class MatchRound extends Component {
 			<Fixture key={i} fixture={fixture} team_selected={this.props.team_selected}></Fixture>
 		);
 		return (
-			<div>
+			<div className='matchRound'>
 				<p>{this.state.roundDate}</p>
 				<div>
 					<ul>{fixtures}</ul>

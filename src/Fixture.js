@@ -10,19 +10,24 @@ class Fixture extends Component {
 	}
 
 	checkActive(teamSelected){
-		if( this.state.fixture['home'] === this.props.team_selected || this.state.fixture['away'] === this.props.team_selected ){
-			return 'active-fixture FixtureItem';
-		} else {
-			return 'inactive-fixture FixtureItem';
+		var className = 'FixtureItem';
+		if( this.props.team_selected === '0' ){
+			return className;
 		}
+
+		if( this.state.fixture['home'] === this.props.team_selected || this.state.fixture['away'] === this.props.team_selected ){
+			className += ' active-fixture';
+		} else {
+			className += ' inactive-fixture';
+		}
+
+		return className;
 	}
 
 	render(){
-		// if either of the two teams are props.team_selected, then add a class
 		var classNames = this.checkActive(this.props.team_selected);
 		return (
 			<li className={classNames}>
-				<p>{this.props.team_selected}</p>
 				<p>{this.state.fixture['home']} vs {this.state.fixture['away']}</p>
 			</li>
 		);

@@ -18,6 +18,7 @@ class TeamInput extends Component {
 		const val = this.props.value;
 		return (
 			<select value={val} onChange={this.handleChange}>
+				<option value='0'>Select a team</option>
 				{options}
 			</select>
 		);

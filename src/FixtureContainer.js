@@ -6,13 +6,12 @@ import myData from './data/data.json';
 class FixtureContainer extends Component {
 	constructor(props){
 		super(props);
-		this.state = {value:'Barcelona'};
+		this.state = {value:'0'};
 		this.handleSelectChange = this.handleSelectChange.bind(this);
 	}
 
 	handleSelectChange(val){
 		this.setState({ value:val });
-		console.log(val);
 	}
 
 	render(){
