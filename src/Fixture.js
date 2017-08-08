@@ -10,7 +10,7 @@ class Fixture extends Component {
 	}
 
 	checkActive(teamSelected){
-		var className = 'FixtureItem';
+		/*var className = 'FixtureItem';
 		if( this.props.team_selected === '0' ){
 			return className;
 		}
@@ -21,7 +21,7 @@ class Fixture extends Component {
 			className += ' inactive-fixture';
 		}
 
-		return className;
+		return className;*/
 	}
 
 	render(){
