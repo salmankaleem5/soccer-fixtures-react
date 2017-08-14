@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
-import teamData from './data/teams.json';
+//import teamData from './data/teams.json';
+import teamData from './data/teamNames.json';
 
 class TeamInput extends Component {
 	constructor(props){
@@ -32,9 +33,11 @@ class TeamInput extends Component {
 	}
 
 	render(){
-		const options = teamData.map( (team, i) => 
-			<option key={i} value={team}>{team}</option>
-		);
+	    const options = Object.keys(teamData).map((team, i) => {
+	      return (
+	      	<option key={teamData[team]['abbr']} value={team}>{team}</option>
+	      );
+	    });
 		const val = this.props.value;
 		return (
 			<select value={val} onChange={this.handleChange} multiple='true'>

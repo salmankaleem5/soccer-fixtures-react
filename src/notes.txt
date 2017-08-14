@@ -1,0 +1,9 @@
+https://en.wikipedia.org/wiki/2016%E2%80%9317_La_Liga#Results
+
+Parse first table header row to get team abbreviations and get formal team names
+Then parse each row to get fixture results info
+	Each fixture can be uniquely identified by home/away pairing
+
+
+
+https://en.wikipedia.org/wiki/2017%E2%80%9318_La_Liga#Results
