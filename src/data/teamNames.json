@@ -3,7 +3,7 @@
     "full_name": "Deportivo Alavés",
     "abbr": "ALA"
   },
-  "Athletic": {
+  "Athletic Bilbao": {
     "full_name": "Athletic Bilbao",
     "abbr": "ATH"
   },
@@ -13,13 +13,13 @@
   },
   "Barcelona": {
     "full_name": "FC Barcelona",
-    "abbr": "BAR"
+    "abbr": "FCB"
   },
   "Celta Vigo": {
     "full_name": "Celta de Vigo",
     "abbr": "CEL"
   },
-  "Deportivo": {
+  "Deportivo La Coruña": {
     "full_name": "Deportivo de La Coruña",
     "abbr": "DEP"
   },
@@ -53,9 +53,9 @@
   },
   "Málaga": {
     "full_name": "Málaga CF",
-    "abbr": "MLG"
+    "abbr": "MGA"
   },
-  "Betis": {
+  "Real Betis": {
     "full_name": "Real Betis",
     "abbr": "BET"
   },
